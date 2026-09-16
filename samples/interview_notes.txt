@@ -1,0 +1,6 @@
+Interview process notes
+
+Candidates should prepare a short introduction, a recent project walkthrough, and questions for the interviewer.
+Technical rounds cover Python, REST APIs, retrieval-augmented generation, and SQL.
+Onsite interviews are typically 45 minutes. Please arrive five minutes early.
+To schedule, provide your full name, work email, preferred date, and a 24-hour time slot.
